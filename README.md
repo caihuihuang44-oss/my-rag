@@ -75,7 +75,7 @@
 
 <a id="resume"></a>
 
-## 📝 简历写法
+## 📝 贡献范围与上游差异
 
 **基于 Adaptive-RAG 的电商客服（个人二次开发，基于开源项目 JEen-wang/Adaptive-rag，MIT License）**
 
